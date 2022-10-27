@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data_Structures_and_Algorithms_Course_Projects_lab1", "Data_Structures_and_Algorithms_Course_Projects_lab1.vcxproj", "{16DF17FC-FA2E-4288-95C7-80EF7C5F98D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DF17FC-FA2E-4288-95C7-80EF7C5F98D5}.Debug|x64.ActiveCfg = Debug|x64
+		{16DF17FC-FA2E-4288-95C7-80EF7C5F98D5}.Debug|x64.Build.0 = Debug|x64
+		{16DF17FC-FA2E-4288-95C7-80EF7C5F98D5}.Release|x64.ActiveCfg = Release|x64
+		{16DF17FC-FA2E-4288-95C7-80EF7C5F98D5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5962DD62-E1C6-4CFF-BCDF-E51295FD3A23}
+	EndGlobalSection
+EndGlobal
